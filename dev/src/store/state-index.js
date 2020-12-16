@@ -5,7 +5,7 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-      message: 'Hello Vuex and Vue JS'
+      message: 'Hello Vuex and Vue JS Dari Store'
   },
   mutations: {
   },
